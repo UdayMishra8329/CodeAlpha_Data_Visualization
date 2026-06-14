@@ -44,7 +44,7 @@ python complete_analysis.py
 
 # Run detailed visualizations
 python detailed_visualizations.py
-```
+
 
 ## 💡 Insights & Conclusions
 1. Students who study more consistently score higher
@@ -54,4 +54,4 @@ python detailed_visualizations.py
 5. High performers have significantly better placement rates
 
 ## 👤 Author
-**Uday Mishra** 
+  Uday Mishra
